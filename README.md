@@ -1,9 +1,21 @@
 # 💫 About Me:
 🔭 I’m currently working on ReactJs <br>👯 I’m looking to collaborate on Front end development <br>🤝 I’m looking for help with Nodejs, NextJs<br>🌱 I’m currently learning NextJs, Typescript, Java<br>💬 Ask me about #Programming #logics #efficieny #accuracy<br>⚡ Fun fact - I write poems while bing watching #TVF shows 😝 but love to write articles on hashnode
 
+### Resune 
+- [ABHISHEK_DEV_CV.pdf](https://github.com/Abhirawat623/Abhirawat623/files/13942317/ABHISHEK_DEV_CV.pdf)
+  
+### Gmail
+- abhirawat623@gmail.com
+  
+### Portfolio
+- https://my-portfolio-gi7r.vercel.app/
+  
+### X
+- https://twitter.com/Abhishekrwt38
+  
+### Linkedin
+- https://www.linkedin.com/in/abhishek-rawat-598151240/
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Abhishekrwt38) 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -25,3 +37,4 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
