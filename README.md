@@ -2,7 +2,7 @@
 🔭 I’m currently working on ReactJs <br>👯 I’m looking to collaborate on Front end development <br>🤝 I’m looking for help with Nodejs, NextJs<br>🌱 I’m currently learning NextJs, Typescript, Java<br>💬 Ask me about #Programming #logics #efficieny #accuracy<br>⚡ Fun fact - I write poems while bing watching #TVF shows 😝 but love to write articles on hashnode
 
 ### Resume  
-- [ABHISHEK_DEV_CV.pdf](https://github.com/Abhirawat623/Abhirawat623/files/13942317/ABHISHEK_DEV_CV.pdf)
+-
   
 ### Gmail
 - abhirawat623@gmail.com
