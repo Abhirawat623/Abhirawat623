@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ReactJs <br>👯 I’m looking to collaborate on Front end development <br>🤝 I’m looking for help with Nodejs, NextJs<br>🌱 I’m currently learning NextJs, Typescript, Java<br>💬 Ask me about #Programming #logics #efficieny #accuracy<br>⚡ Fun fact - I write poems while bing watching #TVF shows 😝 but love to write articles on hashnode
+🔭 I’m currently working on ReactJs <br>👯 I’m looking to collaborate on Front end development <br>🤝 I’m looking for help with Nodejs, NextJs<br>🌱 I’m currently learning NextJs, Typescript, Java<br>💬 Ask me about #Programming #logics #efficieny #accuracy<br>⚡ Fun fact - I write poems and loves to write articles on hashnode too
 
 ### Resume  
 - [Abhishek_Rawat_.pdf](https://github.com/Abhirawat623/Abhirawat623/files/14042479/Abhishek_Rawat_.pdf)
@@ -28,14 +28,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhirawat623&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=abhirawat623&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
