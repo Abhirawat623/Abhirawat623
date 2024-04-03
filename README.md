@@ -9,7 +9,7 @@
 - abhirawat623@gmail.com
   
 ### Portfolio
-- https://my-portfolio-gi7r.vercel.app/
+- https://main--delicate-granita-7fe547.netlify.app/#home
   
 ### X
 - https://twitter.com/Abhishekrwt38
