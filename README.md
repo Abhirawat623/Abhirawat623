@@ -1,10 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on ReactJs <br>👯 I’m looking to collaborate on Front end development <br>🤝 I’m looking for help with Nodejs, NextJs<br>🌱 I’m currently learning NextJs, Typescript, Java<br>💬 Ask me about #Programming #logics #efficieny #accuracy<br>⚡ Fun fact - I write poems and loves to write articles on hashnode too
-
-### Resume  
-- [Abhishek_Rawat_.pdf](https://github.com/Abhirawat623/Abhirawat623/files/14042479/Abhishek_Rawat_.pdf)
-
-  
+ 
 ### Gmail
 - abhirawat623@gmail.com
   
